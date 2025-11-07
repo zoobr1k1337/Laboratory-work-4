@@ -1,3 +1,1 @@
-console.log(
-  "Інформаційна підтримка задоволення потреб у сні, безпечному житлі, повазі оточуючих та можливості створювати художні твори",
-);
+console.log( "Information support, satisfaction of needs for comfortable, safe housing, respect from others, and opportunities to create works of art" );
