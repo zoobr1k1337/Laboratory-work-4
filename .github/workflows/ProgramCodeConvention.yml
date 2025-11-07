@@ -15,4 +15,4 @@ jobs:
         run: npm install --save-dev --save-exact @biomejs/biome
 
       - name: Validate all js-files
-        run: npx @biomejs/biome check ProgramCode.js
+        run: npx @biomejs/biome check *.js
